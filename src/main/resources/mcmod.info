@@ -1,0 +1,16 @@
+[
+{
+  "modid": "roughmobs",
+  "name": "Rough Mobs 2",
+  "description": "Makes hostile creatures significantly more hostile",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lellson"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
